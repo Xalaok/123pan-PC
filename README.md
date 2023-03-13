@@ -2,12 +2,13 @@
 
 123pan PC software collection 123云盘PC客户端软件仓库<br>
 Android客户端软件仓库：https://github.com/Fishtoucher6/123pan-Android<br>
-注意：本仓库非官方，由热心123用户开设，另附123云盘资源分享仓库链接🔗：https://github.com/WYAYZM/123-cloud-disk
+注意：本仓库非官方，由热心123用户开设，客户端也非开源，只是安装包收集<br>
+另附123云盘资源分享仓库链接🔗：https://github.com/WYAYZM/123-cloud-disk
 
 # 公告
 
 【2023.02.22 ***BreakingChange：会员功能上线***】
-目前123云盘PC端最新版1.0.104公测3（2023/03/08更新），手机端最新版手机端最新版2.0.1（2023/02/24更新）<br>Mac端和微信小程序正在开发中。<br>
+目前123云盘PC端最新版1.0.104公测3（2023/03/08更新），手机端最新版手机端最新版2.0.2（2023/03/09更新）<br>Mac端和微信小程序正在开发中。<br>
 版本大全：https://www.123pan.com/s/tpAuVv-LH2KA 提取码:UIRY
 
 # 关于123云盘
